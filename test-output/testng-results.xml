@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25408" started-at="2019-02-23T09:21:18Z" finished-at="2019-02-23T09:21:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25408" started-at="2019-02-23T09:21:18Z" finished-at="2019-02-23T09:21:44Z">
+      <class name="mymaven.MavenTest">
+        <test-method status="PASS" signature="testopen()[pri:0, instance:mymaven.MavenTest@2a70a3d8]" name="testopen" is-config="true" duration-ms="12822" started-at="2019-02-23T09:21:18Z" finished-at="2019-02-23T09:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testopen -->
+        <test-method status="PASS" signature="logintomorningstar()[pri:0, instance:mymaven.MavenTest@2a70a3d8]" name="logintomorningstar" duration-ms="414" started-at="2019-02-23T09:21:31Z" finished-at="2019-02-23T09:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintomorningstar -->
+        <test-method status="PASS" signature="verifyopenpage()[pri:0, instance:mymaven.MavenTest@2a70a3d8]" name="verifyopenpage" duration-ms="23" started-at="2019-02-23T09:21:32Z" finished-at="2019-02-23T09:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyopenpage -->
+        <test-method status="PASS" signature="ScrollDown()[pri:1, instance:mymaven.MavenTest@2a70a3d8]" name="ScrollDown" duration-ms="19" started-at="2019-02-23T09:21:32Z" finished-at="2019-02-23T09:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollDown -->
+        <test-method status="PASS" signature="idexreturn()[pri:2, instance:mymaven.MavenTest@2a70a3d8]" name="idexreturn" duration-ms="4140" started-at="2019-02-23T09:21:32Z" finished-at="2019-02-23T09:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- idexreturn -->
+        <test-method status="PASS" signature="Europe()[pri:3, instance:mymaven.MavenTest@2a70a3d8]" name="Europe" duration-ms="776" started-at="2019-02-23T09:21:36Z" finished-at="2019-02-23T09:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Europe -->
+        <test-method status="PASS" signature="Currency()[pri:4, instance:mymaven.MavenTest@2a70a3d8]" name="Currency" duration-ms="1374" started-at="2019-02-23T09:21:37Z" finished-at="2019-02-23T09:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Currency -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:mymaven.MavenTest@2a70a3d8]" name="endtest" is-config="true" duration-ms="5769" started-at="2019-02-23T09:21:38Z" finished-at="2019-02-23T09:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- mymaven.MavenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
